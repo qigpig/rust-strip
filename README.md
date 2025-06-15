@@ -29,4 +29,5 @@ rustflags = [
 ****
 
 Usage: rust-strip.exe <input_file> <output_file>
+
 ![image1](img.png)
